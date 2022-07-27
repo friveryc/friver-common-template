@@ -17,9 +17,9 @@
 	@import "@/uni_modules/uview-ui/index.scss";
 
 	/* 引入tmUI: */
-	@import "@/uni_modules/tm-vuetify/mian.min.css";
+	@import "./tm-vuetify/mian.min.css";
 	/* 主题包 */
-	@import "@/uni_modules/tm-vuetify/scss/theme.css";
+	@import "./tm-vuetify/scss/theme.css";
 
 	/* 引入colorUI样式*/
 	@import "colorui/main.css";

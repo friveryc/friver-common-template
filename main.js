@@ -8,7 +8,7 @@ import uView from '@/uni_modules/uview-ui'
 Vue.use(uView)
 
 // 引入tmUI
-import tmVuetify from "@/uni_modules/tm-vuetify";
+import tmVuetify from "./tm-vuetify";
 Vue.use(tmVuetify)
 
 Vue.config.productionTip = false
